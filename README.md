@@ -4,6 +4,10 @@ TodoConK - Fix bit.ly Venezuela Block
 
 Bit.ly shortcuts are banned in Venezuela, this is a Chrome Extension for rewrite bit.ly for bitly.com
 
+
+<h3><a href="https://github.com/todoconk/bitly-venezuela/blob/master/bitly-fix.crx?raw=true">Download now</a></h3>
+
+
 ========
 <b>How to install</b>
 
